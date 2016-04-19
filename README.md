@@ -26,7 +26,7 @@ Add a config.docker entry in your `package.json` and simply specify the name of 
     }
   },
 ```
-Add docker-deploy as an npm scriot in your `package.json`
+Add docker-deploy as an npm script in your `package.json`
 
 ```
   "scripts": {
