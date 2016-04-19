@@ -4,6 +4,11 @@
 
 Use this script to build and tag an image based on the version in your project's `package.json` then push it to the registry. 
 
+## Prerequisites
+
+* Docker must be installed on the machine you are running docker-deploy on
+* You have already configured access to the docker registry to be pushing to (by using `docker login`)
+
 ## Install
 
 ```shell
