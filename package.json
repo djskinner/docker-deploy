@@ -1,0 +1,26 @@
+{
+  "name": "docker-deploy",
+  "description": "Build and push a docker image",
+  "version": "0.0.1",
+  "author": "Daniel Skinner (https://github.com/djskinner)",
+  "bin": {
+    "docker-deploy": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/djskinner/docker-deploy/issues"
+  },
+  "homepage": "https://github.com/djskinner/docker-deploy",
+  "issues": "https://github.com/djskinner/docker-deploy/issues",
+  "keywords": [
+    "docker",
+    "deploy",
+    "release",
+    "workflow"
+  ],
+  "license": "MIT",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/djskinner/docker-deploy.git"
+  }
+}
